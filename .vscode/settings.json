@@ -1,0 +1,5 @@
+{
+    "files.exclude": {
+        "project1": true
+    }
+}
